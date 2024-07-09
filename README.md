@@ -102,7 +102,7 @@ Hello everyone 👋 I'm Anshul Khola
         width="50"
       />
     </a>
-    <a href="https://anshul-khola-portfolio.netlify.app/" target="blank">
+    <a href="https://my-new-portfolio-two.vercel.app/" target="blank">
       <img
         src="https://img.icons8.com/color/48/null/circled-user-male-skin-type-4--v1.png"
         align="center"
