@@ -1,4 +1,4 @@
-<img width="40%" img src="https://media4.giphy.com/media/4N3lQozOH2STZdDsOe/200w.gif?cid=82a1493b71r3i1liqhbwue0o5p0zlqdwd8tz4t3oeu8hwr9u&rid=200w.gif&ct=g" align="right"/>
+
 Hello everyone 👋 I'm Anshul Khola
 
   <h2 size="20">Full Stack Web Developer</h2>
@@ -110,7 +110,7 @@ Hello everyone 👋 I'm Anshul Khola
         width="50"
       />
     </a>
-
+<img width="40%" img src="https://media4.giphy.com/media/4N3lQozOH2STZdDsOe/200w.gif?cid=82a1493b71r3i1liqhbwue0o5p0zlqdwd8tz4t3oeu8hwr9u&rid=200w.gif&ct=g" align="right"/>
 
 
 <!---
